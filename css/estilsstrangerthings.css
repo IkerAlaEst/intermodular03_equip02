@@ -1,0 +1,38 @@
+html{
+    background-color:black;
+    font-family:arial;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+body {
+    color: red;
+    align-content: center;
+    text-align: center;
+}
+header {
+    border: 1px solid red;
+    padding: 5px;
+    margin: 10px
+}
+main {
+    border: 1px solid red;
+    padding: 5px; 
+    margin: 10px;
+}
+footer {
+    border: 1px solid red;
+    padding: 5px; 
+    margin: 10px;
+}
+#sinopsis {
+    border: 1px solid red;
+    padding: 5px; 
+}
+a {
+    color: deepskyblue;
+    padding: 20px;
+}
+img {
+    border: 1px solid red;
+    margin: 5px;  
+}
